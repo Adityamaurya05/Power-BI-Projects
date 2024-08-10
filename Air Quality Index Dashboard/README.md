@@ -1,4 +1,4 @@
-## Power BI Project: India's Air Quality (2015-2020)
+# Power BI Project: India's Air Quality (2015-2020)
 
 This Power BI project delves deep into the critical issue of air quality in India from 2015 to 2020. It provides a comprehensive overview of the country's air quality landscape, highlighting key trends, patterns, and challenges.
 
